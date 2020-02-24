@@ -83,7 +83,7 @@ python scripts/gen_fewlist.py # might be different with ours
 
 ### Base Training
 + Modify Cfg for Pascal Data
-Change the data/metayolo.data file 
+Change the cfg/metayolo.data file 
 ```
 metayolo=1
 metain_type=2
